@@ -1,8 +1,8 @@
 # Polynomial Interpolation: Lagrange, Newton and Hermite
 
-**Module:** Mathematics for AI
-**Level:** Master 1
-**Author:** Abir Ben Harrou
+### Module: Mathematics for AI
+### Level: Master 1 Data & IA
+### Author: Abir Ben Harrou
 
 ## Description
 This project implements three polynomial interpolation methods
